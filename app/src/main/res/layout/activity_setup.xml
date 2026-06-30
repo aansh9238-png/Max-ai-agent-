@@ -40,7 +40,7 @@
             android:id="@+id/etApiKey"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Enter your Gemini API Key"
+            
             android:hint="Enter your Gemini API Key"
             android:textColor="@color/max_text"
             android:backgroundTint="@color/max_accent"
