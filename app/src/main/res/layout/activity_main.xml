@@ -99,7 +99,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:hint="Type a command..."
-            android:hintTextColor="@color/max_hint"
+            
             android:textColor="@color/max_text"
             android:backgroundTint="@color/max_accent"
             android:inputType="text"
